@@ -46,4 +46,3 @@ export function dealerTurn(){
     return {cards, total}
 }
 
-console.log(dealerTurn())
